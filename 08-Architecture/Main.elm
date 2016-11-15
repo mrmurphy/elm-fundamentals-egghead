@@ -1,7 +1,7 @@
 module Main exposing (..)
 
 import Html exposing (..)
-import Html.App exposing (beginnerProgram)
+import Html exposing (beginnerProgram)
 import Html.Events exposing (..)
 
 
